@@ -1,5 +1,5 @@
-# StockSProject (WIP)
-Program meant for small businesses like shop to keep track of items at stock.(Work in progress)
+# StockSProject (WIP)/OLD
+Program meant for small businesses like shop to keep track of items at stock.(Work in progress) Old project that i am not working any more.
 
 ## Features
 
